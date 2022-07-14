@@ -1,5 +1,5 @@
 {
-    "name": "ircmaxell/random-lib",
+    "name": "shengtian-liao/my-abc",
     "type": "library",
     "description": "A Library For Generating Secure Random Numbers",
     "keywords": ["random", "random-numbers", "random-strings", "cryptography"],
